@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-android-goto-datetime-settings",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorribas/cordova-plugin-android-goto-datetime-settings.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorribas/cordova-plugin-android-goto-datetime-settings/issues"
+  },
+  "homepage": "https://github.com/sorribas/cordova-plugin-android-goto-datetime-settings#readme"
+}
